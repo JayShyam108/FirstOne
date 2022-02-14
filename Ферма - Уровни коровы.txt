@@ -1,0 +1,500 @@
+
+
+
+
+
+
+Место
+Кормить чем то - пастись - пастбище... травы качества ывбрать зону
+
+рано или поздно наступит зима заготовить корм на зиму..
+первый уровень - сено закосить на месте
+второй - посеят коровые смеси 
+Белковая пища - зерно .. но есть специальные белковые кормовые продукты
+Посеивания соотношений обьема
+Добыть ресурсы
+	инстурмент коса
+	Инстурментарий
+	Ночевать где то
+		пойти к соседям получить задания - для ресурса найм сделььно
+
+Лето ограничено счетчик дней 90 дней само лето 180 теплых дней. 
+Садхана Духовная дает бонусы накопительная история ( Z..A)
+мудрецы могут появляться в течении или сразу после садзаны.
+чтобы попервой ощутимые.
+Вначале все развитие сладкое начало.
+		
+----
+ПОлстоянно высплывает хинт: постоянно: сено сено сено зима зима зима говтоьте готоовтье к зиме
+Какие то квесты долждны блокировать остальные моменты - жизнь вокруг коровы будь добр заботиться о корове.
+
+----
+30 полезных привычек для персонажа
+---
+Течение сезонов:
+
+Течение Времени:
+
+----
+
+Вставить живые ролики от коров в загрузку =) Живую милоту перcональную! =) и видео уроки =)
+
+
+подсказки советы и афоризмы при  загрузке игры =)
+живите никого не предававая  и никого не обманывая и будете Вам дорога усеяна цветами.  (цитаты сенеки, мудрецов, философов)
+Кто добро сеет тот добро пожнет. кто худо сеет - тот худо жнет.
+Положи день для работы, вечер для отдыха, ночь для сна, а утро для молитвы.
+Всё проихсодящее снаружи лишь порождение твоих пороков и добродетелей
+Помните корова дает Вам молок прежде всего потому что любит Вас. Вас и  Теленка. Оправдайте ее любовь.
+
+
+
+молоко имеет тот же уровень класса сложности  что и корова.
+Показатель Качества Молока зависит от идеальности параметров коровы первую половину алфавита, (ухоженноти/ разбалованноти)
+и вторую половину алфавита - от оптимальноссти данных показателей)
+
+чем выше уровень коровы тем выше уровень молока и тем на большее количетво параметров оно дает баф.
+Тем соотвественно дороже.
+
+
+Первые пол алфавита молоко только бафает слабо или сильно.
+но в верхней половины алфавита после уровня P молоко будет начинать дебафать.
+а после уровня MN когда судьба теленка определяется  -  может начать смертельно дебафить есл еленка забрали/продали/отняли/убили.
+
+Но для упешной игры на уровнях ABC DEF GHI в вышей лиге - 
+
+
+
+
+----
+дофига Кликинг ориентация / дофига Quality два подхода к игре
+раз в день 15 минут
+
+
+Гайды: подсказки и советы в начале. гайд и кнопка гайда...
+Гайды: преудпреждают о перспектива
+
+задача на самораздумывания: продать 8 кг малины - поэтапный гайд 
+СРАЗУдают цель на перспективу... и свободу думать и достигать вольно любыми путями несколько.
+Бэд карма за воровсотов не  гостепреимство.
+
+----
+Сразу вводиться корова со всеми открытыми покзаателями
+Отображаются только 2: хп прочности, и шкалы текущего состояния.
+Падение какого либо показателя порождает гайдовый(подсказываемый) квест
+
+ --------------
+ Z LVL еда вода
+ --------------
+ sFood 
+ sWater
+ 
+ Амбариша советует 
+ Вы стали фермом хотите завести корову?
+ посмотрите что следует делать?
+ с лета до осени
+ уход , СРАЗУКАК К ЖИВОЙ
+ ++  sHeet
+ ++ sHyhien
+ ++ sCleanlines
+ ++ sHeartfull
+ ++ sStress
+ // Крематорий
+ 
+------------
+Y LVL еда вода тепло
+------------
+sFood
+sWater
+sHeet
+------------
+X LVL еда вода тепло гигиена
+------------
+sFood
+sWater
+sHeet
+sHyhien
+------------
+W LVL  температура пищи и ее читота и микробная безопасноть 
+------------
+sIncomeTemp
+sIncomePurity
+sIncomeDiseases
+
+sFood
+sWater
+sHeet
+sHyhien
+
+-----------OPQRSTU V WXYZ
+V LVL  +чистота пространства, одиночество/наполненность сердца(уделять внимание или завети коров подруг) +показатель  стресса
+------------
+Амабриш советует сразу вносить эти уровни разом 
+чуть ли не всю арука за 1 час...
+
+----
+sIncomeTemp
+sIncomePurity
+sIncomeDiseases
+
+sFood
+sWater
+sHeet
+sHyhien
+
+sCleanlines
+sHeartfull
+sStress
+
+
+
+
+------------OPQRST 
+U LVL   показатель удовлетворенности чувств
+------------
+sIncomeTemp
+sIncomePurity
+sIncomeDiseases
+
+sFood
+sWater
+sHeet
+sHyhien
+
+sCleanlines
+sSatisfaction
+sStress
+
+
+------------OPQRS
+T LVL			белки жиры углеводы
+------------
+sIncomeTemp
+sIncomePurity
+sIncomeDiseases
+
+sFood_Fats
+sFood_Proteins
+sFood_HydroCarbonats
+
+
+
+
+sWater
+sHeet
+sHyhien
+sCleanlines
+sSatisfaction
+sStress
+
+
+
+------------KLMNOPQR
+S LVL  минералы витамины жирные кислоты + Подвижность
+------------
+sIncomeTemp
+sIncomePurity
+sIncomeDiseases
+
+sFood_Fats
+sFood_Proteins
+sFood_HydroCarbonats
+
+sFood_Minerals
+sFood_Vitamins
+sFood_FatAcids
+
+
+
+sWater
+sHeet
+sHyhien
+sCleanlines
+sSatisfaction
+sStress
+sActivity
+
+
+
+
+------------KLMNOPQ
+R LVL	активноть ппревращаетя в физактивность и опен эйр прогулки
+------------
+sIncomeTemp
+sIncomePurity
+sIncomeDiseases
+
+sFood_Fats
+sFood_Proteins
+sFood_HydroCarbonats
+sMyMuscles
+sMyFat
+sMyEnergyLevel
+
+
+sFood_Minerals
+sFood_Vitamins
+sFood_FatAcids
+
+
+
+sWater
+sHeet
+sHyhien
+sCleanlines
+sSatisfaction
+sStress
+sFreshAirWalk
+sPhysicalActivity
+
+
+
+------------KLMNOPQ
+Q LVL		появляется   учет роста и оптимальноссти мышечной жировой ткани,  общий уровень усвоившейся энергии, и социальный параметр привчзанноть к хозяину/испуганность
+------------
+sIncomeTemp
+sIncomePurity
+sIncomeDiseases
+
+sFood_Fats
+sFood_Proteins
+sFood_HydroCarbonats
+sMyDigestion
+sMyMuscles
+sMyFat
+sMyEnergyLevel
+
+
+sMasterAffinity
+ 
+
+sFood_Minerals
+sFood_Vitamins
+sFood_FatAcids
+
+
+
+sWater
+sHeet  / sOverHeetShadow / sRain / sFrost
+sHyhien
+sCleanlines
+sSatisfaction
+sStress
+sFreshAirWalk
+sPhysicalActivity
+
+
+
+
+------------KLMNO 
+P LVL  появляется фактор качества пищеварения и усвоения sMyDigestion к чему и подводили нас недавние активность, энергия,  свежий воздух и наличие энергии
+------------
+sIncomeTemp
+sIncomePurity
+sIncomeDiseases
+
+sFood_Fats
+sFood_Proteins
+sFood_HydroCarbonats
+sMyDigestion
+sMyMuscles
+sMyFat
+sMyEnergyLevel
+
+
+sMasterAffinity
+sSocialNeed
+
+
+sFood_Minerals
+sFood_Vitamins
+sFood_FatAcids
+
+
+
+sWater
+sHeet
+sHyhien
+sCleanlines
+sSatisfaction
+sStress
+sFreshAirWalk
+sPhysicalActivity
+
+
+
+
+sMetaboluismSpeed
+
+------------KLMNO 
+P LVL  социальные потребности
+------------
+sIncomeTemp
+sIncomePurity
+sIncomeDiseases
+
+sFood_Fats
+sFood_Proteins
+sFood_HydroCarbonats
+sMyDigestion
+sMyMuscles
+sMyFat
+sMyEnergyLevel
+
+
+sMasterAffinity
+sSocialNeed
+sSocialProblemsOrStability
+
+
+sFood_Minerals
+sFood_Vitamins
+sFood_FatAcids
+
+
+
+sWater
+sHeet
+sHyhien
+sCleanlines
+sSatisfaction
+sStress
+sFreshAirWalk
+sPhysicalActivity
+
+
+
+
+------------KLMNO 
+P0 LVL с уровня P0 появляется возвраст и болезни
+------------
+sIncomeTemp
+sIncomePurity
+sIncomeDiseases
+
+sFood_Fats
+sFood_Proteins
+sFood_HydroCarbonats
+sMyDigestion
+sMyMuscles
+sMyFat
+sMyEnergyLevel
+
+
+sMasterAffinity
+sSocialNeed
+sSocialProblemsOrStability
+
+
+sAge
+sDiseases
+
+
+sFood_Minerals
+sFood_Vitamins
+sFood_FatAcids
+
+
+
+sWater
+sHeet
+sHyhien
+sCleanlines
+sSatisfaction
+sStress
+sFreshAirWalk
+sPhysicalActivity
+
+
+------------KLMN  
+O LVL с уровня O появляется телята (телочки) уровень молоко снижен, и теленок  прикреплен к маме и не является юнитом а картинкой
+увеливается потребность нестабильность
+------------
+
+sIncomeTemp
+sIncomePurity
+sIncomeDiseases
+
+sFood_Fats
+sFood_Proteins
+sFood_HydroCarbonats
+sMyDigestion
+sMyMuscles
+sMyFat
+sMyEnergyLevel
+
+
+sMasterAffinity
+sSocialNeed
+sSocialProblemsOrStability
+
+
+sAge
+sAging
+sDiseases
+sWeakness
+
+
+sFood_Minerals
+sFood_Vitamins
+sFood_FatAcids
+
+
+
+sWater+
+
+
+sHeet
+sHyhien
+sCleanlines
+sSatisfaction
+sStress
+sFreshAirWalk
+sPhysicalActivity
+
+------------------
+уровня  N не будет. Уровень N для тех кто убьет теленка.
+
+
+------------KLMN  
+M LVL с уровня M     (телочка) становиться отдельным юнитом-коровкой с полным набором параметров. нуждающемся в маме.также у коровы мамы появлется показатель количества детей
+------------
+sIncomeTemp
+sIncomePurity
+sIncomeDiseases
+
+sFood_Fats
+sFood_Proteins
+sFood_HydroCarbonats
+sMyDigestion
+sMyMuscles
+sMyFat
+sMyEnergyLevel
+
+
+sMasterAffinity
+sSocialNeed
+sSocialProblemsOrStability
+
+
+sChildren 
+sAge
+sDiseases
+
+
+sFood_Minerals
+sFood_Vitamins
+sFood_FatAcids
+
+
+
+sWater
+sHeet
+sHyhien
+sCleanlines
+sSatisfaction
+sStress
+sFreshAirWalk
+sPhysicalActivity
+
+
